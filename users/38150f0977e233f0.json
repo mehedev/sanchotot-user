@@ -1,3 +1,6 @@
 {
-    "registered": 1
+    "registered": 1,
+    "minFetchInterval": 30,
+    "maxFiltersCount": 100,
+    "maxProjectsCount": 100
 }
