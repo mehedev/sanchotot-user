@@ -3,5 +3,6 @@
     "minFetchInterval": 30,
     "maxFiltersCount": 100,
     "canSeeRentMap": 1,
+    "profileVersion": 2,
     "maxProjectsCount": 100
 }
