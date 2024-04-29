@@ -2,5 +2,6 @@
     "registered": 1,
     "minFetchInterval": 30,
     "maxFiltersCount": 100,
+    "canSeeRentMap": 1,
     "maxProjectsCount": 100
 }
