@@ -1,8 +1,9 @@
 {
-    "registered": 1,
+    "registered": true,
     "minFetchInterval": 30,
     "maxFiltersCount": 100,
-    "canSeeRentMap": 1,
+    "canSeeRentMap": true,
+    "canActAsChototUser": true,
     "profileVersion": 2,
     "maxProjectsCount": 100
 }
